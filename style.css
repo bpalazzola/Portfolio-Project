@@ -1,65 +1,85 @@
 .header {
-    background-color: #6d3651;
-
+    background-color: #F1F1F1;
 }
-
-.body {
-    background-color:#6d3651;
-    vertical align: top;
+.header h1, .header h2 {
+    display: inline-block;
+    vertical-align: top;
+}
+.header h1 {
+    margin-right: 500px;   
+}
+.wrapper {
+    width: 1000px;
+}
+.main_content {
+    background-color: background-image: -webkit-gradient(linear, left top, left bottom, from(start-color), to(end-color));
+    background-image: -webkit-linear-gradient(indigo, purple, grey);
+    background-image: -moz-linear-gradient(top, start-color, end-color);
+    background-image: linear-gradient(to bottom, start-color, end-color); indigo,violet;
+    vertical-align: top;
+    display: inline-block;
+    width: 1000px;
+    padding: 15px;
+}
+.all_about {
+    display: inline-block;
+    width: 450px;
+    height: 275px;
+    margin-left: 30px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.all_about p {
+    width: 300px;
+    padding: 10px;
+}
+.all_about h3 {
+    background-color: grey;
+    color: white;
+    padding: 10px;
 }
 .glasses_girl {
     border-width: 15px;
     border-color: grey;
     height: 275px;
     width: 475px;
-}
-.about {
-    vertical-align: top;
     display: inline-block;
-    text-align: right;
+    vertical-align: top;
 }
-.p1 {
-    text-align: right;
-    
-
+.project {
+    width: 300px;
+    background-color: white;
+    display: inline-block;
+    margi
 }
-.container {
-    width: 960px;
+.project img {
+    width: 300px;
+}
+.logos1 img {
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+.project h3 {
+    background-color: grey;
+    color: white;
+    padding: 15px;
+}
+.mid {
+    margin: 0px 25px;
+}
+.project p {
+    padding: 15px;
+}
+.but {
+    display: block;
+    width: 95px;
+    height: 25px;
+    position: static;
+    cursor: pointer;
+    opacity: 1;
     margin: 0 auto;
-
-}
-
-.Primary {
-    align-content: left;
-    width: 140px;
-}
-
-.secondary {
-    align-content: center;
-    width: 140px;
-}
-
-.trio_content {
-    align-content: right;
-    width: 140px;
-}
-
-#footer {
-    background-color:#6d3651;
-    clear: both;
-}
-
-.h4 {
-    float: right;
-    font-size: 14pt;
-    display: inline;
-}
-
-.logos1 {
-    height: 75px;
-    width: 75px;
-}
-
-.sub-but {
-    color: green;
+    padding: 0;
+    background: rgb(115, 199, 122);
+    color: rgb(11, 165, 88);
 }

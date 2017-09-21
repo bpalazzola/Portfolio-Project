@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jayne Doe</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+   
+    
+</head>
+        <body>
+                <h2>Jayne Doe</h2>
+                        <div class="h4">
+                            <div>
+                            <p>Master of shadows and the Internet!</p>
+                            </div>
+                        </div>
+                        <div class="header">
+                            <div>
+                                <img class="glasses_girl"src="images/photo_of_me.jpg" alt="photo_of_me" />
+                            </div>
+                            <div class="about">
+                                <h3>About</h3>
+                                <div class="p1">
+                                    Hello! I'm an extremely driven and creative Full Stack Developer! Hello! I'm an extremely driven and creative Full Stack Developer! Hello! I'm an extremely driven and creative Full Stack Developer! Hello! I'm an extremely driven and creative Full Stack Developer! Hello! I'm an extremely driven and creative Full Stack Developer!
+                                </div>
+                            </div>
+                        </div>
+        <div class="container">
+            <div class="primary">
+                    <h4>La Mode</h4>
+                    <img src="C:\Users\bpala\Desktop\porfolio project\images\lamode.png" alt="lamode" />
+                    <p>La mode is an ecommerce website for designed market various clothing products. La mode is an ecommerce website for designed market various clothing products. La mode is an ecommerce website for designed market various clothing products. </p>
+                    <h5>Technologies</h5>
+                    <div class="logos1">
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\php.png" alt="phplogo" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\codeigniter.png" alt="codeinitor" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\jQuery.png" alt="jquery" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\ajax.png" alt="ajaxlogo" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\mysql.png" alt="mysqllogo" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\HTML.png" alt="html" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\CSS.png" alt="css" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\bootstrap.png" alt="bootstrap" />
+                    <input type="submit" value="La Mode">               
+                    </div>                        
+
+
+
+                </div>
+                
+                <div class="secondary">
+                    <h4>Family Contacts</h4>
+                    <img src="C:\Users\bpala\Desktop\porfolio project\images\familycontacts.png" alt="family_contacts" />
+                    <h5>Technologies:</h5>
+                    <div class="logos1">
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\JavaScript.png" alt="javascript"/>
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\mongodb.png" alt="mongodb" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\expressjs.png" alt="expressjs" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\angular.png" alt="angular" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\nodejs.png" alt="nodejs" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\HTML.png" alt="html" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\CSS.png" alt="css" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\socket.png" alt="socket" />
+                        </div>
+                        <div class="sub-but">
+                        <input type="submit" value="Family Contacts">
+                        </div>
+                </div>
+                
+                <div class="trio_content">
+                    <h4>fiveEleven</h4>
+                    <img src="C:\Users\bpala\Desktop\porfolio project\images\fiveEleven.png" alt="fiveeleven" />
+                    <h5>Technologies:</h5>
+                    <div class="logos1">
+                        <img src="images/python.png" alt="pythonlogo" />
+                        <img src="images/django.png" alt="djangologo" />
+                        <img src="images/d3.png" alt="d3logo" />
+                        <img src="images/angular.png" alt="angular" />
+                        <img src="images/sqlite.png" alt="sqllitelogo" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\HTML.png" alt="html" />
+                        <img src="C:\Users\bpala\Desktop\porfolio project\images\CSS.png" alt="css" />
+                        <img src="images/javascript.png" alt="js_logo" />
+                        <img src="images/materialize.png" alt="materialize" />
+                        <div class="sub-but">
+                        <input type="submit" value="fiveEleven">
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="footer">
+                    <p>jdoeW@gmails.com | 206-555-1212</p>
+                    <img src="images/github.png" alt="gitlogo" />
+                    <p>jaynedev</p>
+                    <img src="images/linkedin.png" alt="linkedinlogo" />
+                    <p>jayne-doe</p>
+                    <img src="images/twitter.png" alt="twitterlogo" />
+                    <p>jdtweets</p>
+                    <img src="images/codepen.png" alt="codepenlogo" />
+                    <p>jaynedev</p>
+
+                </div>
+               
+            </div>
+
+    </body>
+
+
+
+
+
+
+
+</html>
